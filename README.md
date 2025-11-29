@@ -1,1 +1,1 @@
-Курсовая работа по ТЯП или как сделать всё за день
+University practice for theory of programming languages
